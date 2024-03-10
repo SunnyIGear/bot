@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c38260a5-2c2f-42a1-83b3-8ff865e96f48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/handler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/handler/career_choice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/handler/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/kyeboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/kyeboard/keyboards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/kyeboard/prof_keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/utils/randomdog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/utils/randomfox.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dUedNUwcTCcqXutLutLgGOhV4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.career_choice.executor": "Run",
+    "Python.common.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.prof_keyboard.executor": "Run",
+    "Python.prof_keyboards.executor": "Run",
+    "Python.randomdog.executor": "Run",
+    "Python.randomfox.executor": "Run",
+    "Python.sorry.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/VirginKidnappingInc/Desktop/bot/New_bot 10/03/2024/Lesson_1/prof_keyboard"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\prof_keyboard" />
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\keyboards" />
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\kyeboard" />
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\handler" />
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1" />
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\utils" />
+      <recent name="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\keyboards" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="career_choice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1/handlers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\handler\career_choice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="randomfox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\VirginKidnappingInc\Desktop\bot\New_bot 10\03\2024\Lesson_1\utils\randomfox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.career_choice" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.randomfox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c38260a5-2c2f-42a1-83b3-8ff865e96f48" name="Changes" comment="" />
+      <created>1710067170988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710067170988</updated>
+    </task>
+    <servers />
+  </component>
+</project>
